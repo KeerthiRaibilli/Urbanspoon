@@ -1,0 +1,2 @@
+${alertMsg}
+<% response.sendRedirect("LogoutController"); %>
